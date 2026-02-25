@@ -1,11 +1,11 @@
-name = "bold-resonance-056b"
+name = "666kkk001"
 main = "src/index.js"
 compatibility_date = "2026-02-25"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "ProxyIP.Multacom.CMLiussss.net"
+PROXYIP = "ProxyIP.Multacom.CMLiussss.net"
 UUID = "c10234e0-aab7-440a-be5d-f5c5eb2a3e1c"
 # TROJAN_PASSWORD = "kaitokid"  # Optional: If not set, UUID will be used as password
 # SOCKS5 = "127.0.0.1:1080"
